@@ -2,7 +2,7 @@
 
 <h3> About me</h3>
 
-- | 👩‍💻 I'm currently work as Software QA Engineer at @liferay
+- | 👩‍💻 I'm currently work as Software QA Engineer at Liferay
 - | 🙌 Software Quality Evangelist
 - | 👩‍🎓 Information System
 - | 🌎 Recife-PE/Brazil
